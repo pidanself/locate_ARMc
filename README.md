@@ -5,7 +5,7 @@
     Through this framework, we could get all projects that are relevant to ARM in hundreds  
     of projects.  
       Given one project, determine if the project is relevant to ARM.  
-      And there is one https://github.com/github/linguist. This project could  
+      And there is one project in https://github.com/github/linguist. This project could  
     generate language breakdown graphs of one project. I will try it firstly, and if it  
     doesn't work I will use following methods.
     
