@@ -26,3 +26,7 @@
     
     
 * Third step needs to be considered more.
+
+
+## The figure depicting the process is below 
+![image](images/未命名文件.png)
